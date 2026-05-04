@@ -8,7 +8,7 @@ function Navbar(){
         <ul>
             <li>Accueil</li>
             <li>Service</li>
-            <li>Porfolio</li>
+            <li>Portfolio</li>
             <li>Contact</li>
         </ul>
     </nav>
